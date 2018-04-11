@@ -1,6 +1,6 @@
-# D8 
+# d8 
 
-D8 is a simple web app to adress a complex question, "where are you gonna take your date tonight?"
+d8 is a simple web app to adress a complex question, "where are you gonna take your date tonight?"
 
 Built with a front end first design, our web app uses tried and tested internet technologies to match our users with the activities they'll love.
 
