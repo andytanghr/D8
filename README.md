@@ -4,7 +4,7 @@ d8 is a simple web app to adress a complex question "Where are you gonna take yo
 
 Built with a front-end first design, our web app uses tried and tested internet technologies to match our users with the activities they'll love.
 
-Utilizing a thorough personality quiz based on Gretchen Rubin's recent work, <em>The Four Tendencies</em>, our algorithim matches each
+Utilizing a thorough personality quiz based on Gretchen Rubin's recent work, <em>The Four Tendencies</em>, our algorithm matches each
 user with the most optimal restaurant and movie options for their personality type.
 
 <h2 align="center"> Take the Quiz </h2>
@@ -17,18 +17,18 @@ user with the most optimal restaurant and movie options for their personality ty
 
 
 
-## Technologies used
+## Technologies Used
   * HTML5
   * CSS3
   * JavaScript (ES6)
-  * JQuery
+  * jQuery
   * Bootstrap 4
   * Adobe XD
   * Git
   * AJAX
-  * Zomato Api
-  * The Movie Database Api
-  * Google Maps Api
+  * Zomato API
+  * The Movie Database API
+  * Google Maps API
   
 ## Authors:
   ## Design
